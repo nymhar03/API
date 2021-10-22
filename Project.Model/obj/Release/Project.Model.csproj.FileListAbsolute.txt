@@ -1,0 +1,7 @@
+D:\Irides\Project.Model\bin\Release\Project.Model.dll.config
+D:\Irides\Project.Model\bin\Release\Project.Model.dll
+D:\Irides\Project.Model\bin\Release\Project.Model.pdb
+D:\Irides\Project.Model\bin\Release\System.Data.SqlServerCe.dll
+D:\Irides\Project.Model\obj\Release\Project.Model.csprojResolveAssemblyReference.cache
+D:\Irides\Project.Model\obj\Release\Project.Model.dll
+D:\Irides\Project.Model\obj\Release\Project.Model.pdb

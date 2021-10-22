@@ -1,0 +1,24 @@
+D:\Irides\Project.Model\bin\Debug\Project.Model.dll.config
+D:\Irides\Project.Model\bin\Debug\Project.Model.dll
+D:\Irides\Project.Model\bin\Debug\Project.Model.pdb
+D:\Irides\Project.Model\bin\Debug\System.Data.SqlServerCe.dll
+D:\Irides\Project.Model\obj\Debug\Project.Model.csprojResolveAssemblyReference.cache
+D:\Irides\Project.Model\obj\Debug\Project.Model.dll
+D:\Irides\Project.Model\obj\Debug\Project.Model.pdb
+D:\Irides - Copy\Project.Model\bin\Debug\Project.Model.dll.config
+D:\Irides - Copy\Project.Model\bin\Debug\Project.Model.dll
+D:\Irides - Copy\Project.Model\bin\Debug\Project.Model.pdb
+D:\Irides - Copy\Project.Model\bin\Debug\System.Data.SqlServerCe.dll
+D:\Irides - Copy\Project.Model\obj\Debug\Project.Model.dll
+D:\Irides - Copy\Project.Model\obj\Debug\Project.Model.pdb
+D:\Irides - Copy\Project.Model\obj\Debug\Project.Model.csprojAssemblyReference.cache
+D:\Irides - Copy\Project.Model\obj\Debug\Project.Model.csproj.CopyComplete
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Model\bin\Debug\Project.Model.dll.config
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Model\bin\Debug\Project.Model.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Model\bin\Debug\Project.Model.pdb
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Model\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Model\obj\Debug\Project.Model.csproj.AssemblyReference.cache
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Model\obj\Debug\Project.Model.csproj.CoreCompileInputs.cache
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Model\obj\Debug\Project.Model.csproj.CopyComplete
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Model\obj\Debug\Project.Model.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Model\obj\Debug\Project.Model.pdb

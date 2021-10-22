@@ -1,0 +1,184 @@
+﻿
+
+<h5><b>TESTING AND CONSUMING APIs</b></h5>
+<div class="jumbotron">
+    <h4> <b>Login</b> using "api/Users/authenticateUser" with parameters(USERNAME,PASSWORD)</h4>
+    <div class="form-group">
+        <label>Username</label>
+        <input type="text" class="form-control" id="username" />
+        <label>Password</label>
+        <input type="password" class="form-control" id="password" />
+    </div>
+    <button id="btnLogin" class="btn btn-success">Login</button>
+    <hr />Result
+    <div id="result">
+        <span id="msg"></span>|
+        <span id="code"></span>|
+        <span id="data"></span>
+    </div>
+    <br />
+    <div id="info" style="display:none">
+        <span style="color:blue">Display Object values</span>
+        <br />
+        <div class="form-group">
+            USER ID: <span id="id"></span>
+            <br />
+            TOKEN: <span id="token"></span>
+        </div>
+    </div>
+</div>
+<div class="jumbotron">
+    <h4> <b>Create Account</b> using "api/Accounts/create" with parameters(USER_ID,TOKEN,ACCOUNT_NO,FIRSTNAME,LASTNAME,MIDDLENAME,ACCOUNT_BALANCE,STATUS,REMARKS)</h4>
+    <h5> USER_ID and TOKEN are from Login results object</h5>
+    <h5> STATUS is set as ACTIVE</h5>
+    <h5> MIDDLENAME and REMARKS are optional</h5>
+    <div class="form-group">
+        <label>USER ID</label>
+        <input type="text" class="form-control" id="userid2" />
+        <label>TOKEN</label>
+        <input type="text" class="form-control" id="tokenvalue2" />
+        <label>ACCOUNT NO.</label>
+        <input type="text" class="form-control" id="acctno2" />
+        <label>LAST NAME</label>
+        <input type="text" class="form-control" id="lname" />
+        <label>FIRST NAME</label>
+        <input type="text" class="form-control" id="fname" />
+        <label>MIDDLE NAME</label>
+        <input type="text" class="form-control" id="mname" />
+        <label>INITIAL BALANCE</label>
+        <input type="number" class="form-control" id="balance" />
+        <label>REMARKS</label>
+        <input type="text" class="form-control" id="remarks" />
+    </div>
+    <button id="btnAccount2" class="btn btn-success">Create Account</button>
+    <hr />Result
+    <div id="result">
+        <span id="msg3"></span>|
+        <span id="code3"></span>|
+        <span id="data3"></span>
+    </div>
+</div>
+
+<div class="jumbotron">
+    <h4> <b>Get Account</b> using "api/Accounts/get" with parameters(USER_ID,TOKEN,ACCOUNT_NO)</h4>
+    <h5> USER_ID and TOKEN are from Login results object</h5>
+    <div class="form-group">
+        <label>USER ID</label>
+        <input type="text" class="form-control" id="userid" />
+        <label>TOKEN</label>
+        <input type="text" class="form-control" id="tokenvalue" />
+        <label>ACCOUNT NO.</label>
+        <input type="text" class="form-control" id="acctno" />
+    </div>
+    <button id="btnAccount" class="btn btn-success">View Account</button>
+    <hr />Result
+    <div id="result">
+        <span id="msg2"></span>|
+        <span id="code2"></span>|
+        <span id="data2"></span>
+    </div>
+    <br />
+    <div id="info2" style="display:none">
+        <span style="color:blue">Display Object values</span>
+        <br />
+        <div class="form-group">
+            NAME: <span id="name"></span>
+            <br />
+            ACCOUNT BALANCE: <span id="balance2"></span>
+            <br />
+            STATUS: <span id="status"></span>
+            <br />
+            REMARKS: <span id="remarks2"></span>
+        </div>
+    </div>
+</div>
+<div class="jumbotron">
+    <h4> <b>Update Account</b> using "api/Accounts/update" with parameters(USER_ID,TOKEN,ACCOUNT_NO,FIRSTNAME,LASTNAME,MIDDLENAME,ACCOUNT_BALANCE,STATUS,REMARKS)</h4>
+    <h5> USER_ID and TOKEN are from Login results object</h5>
+    <h5> REMARKS is required when STATUS equals CLOSED</h5>
+    <h5> MIDDLENAME is optional</h5>
+    <div class="form-group">
+        <label>USER ID</label>
+        <input type="text" class="form-control" id="userid1" />
+        <label>TOKEN</label>
+        <input type="text" class="form-control" id="tokenvalue1" />
+        <label>ACCOUNT NO.</label>
+        <input type="text" class="form-control" id="acctno1" />
+        <label>LAST NAME</label>
+        <input type="text" class="form-control" id="lname1" />
+        <label>FIRST NAME</label>
+        <input type="text" class="form-control" id="fname1" />
+        <label>MIDDLE NAME</label>
+        <input type="text" class="form-control" id="mname1" />
+        <label>STATUS</label>
+        <select id="status1" class="form-control">
+        <option value="ACTIVE">ACTIVE</option>
+        <option value="CLOSED">CLOSED</option>
+        </select>
+        <label>REMARKS</label>
+        <input type="text" class="form-control" id="remarks1" />
+    </div>
+    <button id="btnAccount1" class="btn btn-success">Update Account</button>
+    <hr />Result
+    <div id="result">
+        <span id="msg1"></span>|
+        <span id="code1"></span>|
+        <span id="data1"></span>
+    </div>
+</div>
+<div class="jumbotron">
+    <h4> <b>Create Payment</b> using "api/Payments/create" with parameters(USER_ID,TOKEN,ACCOUNT_NO,AMOUNT,REMARKS)</h4>
+    <h5> USER_ID and TOKEN are from Login results object</h5>
+    <h5> REMARKS is optional</h5>
+    <h5> AMOUNT is deducted to the user's ACCOUNT BALANCE. It will also validate if balance is sufficient</h5>
+    <div class="form-group">
+        <label>USER ID</label>
+        <input type="text" class="form-control" id="userid4" />
+        <label>TOKEN</label>
+        <input type="text" class="form-control" id="tokenvalue4" />
+        <label>ACCOUNT NO.</label>
+        <input type="text" class="form-control" id="acctno4" />
+        <label>AMOUNT</label>
+        <input type="number" class="form-control" id="amount4" />
+        <label>REMARKS</label>
+        <input type="text" class="form-control" id="remarks4" />
+    </div>
+    <button id="btnPayment" class="btn btn-success">Create Payment</button>
+    <hr />Result
+    <div id="result">
+        <span id="msg4"></span>|
+        <span id="code4"></span>|
+        <span id="data4"></span>
+    </div>
+</div>
+
+<div class="jumbotron">
+    <h4> <b>Get Payments by Account No.</b> using "api/Payments/getByAccountNo" with parameters(USER_ID,TOKEN,ACCOUNT_NO)</h4>
+    <h5> USER_ID and TOKEN are from Login results object</h5>
+    <div class="form-group">
+        <label>USER ID</label>
+        <input type="text" class="form-control" id="userid6" />
+        <label>TOKEN</label>
+        <input type="text" class="form-control" id="tokenvalue6" />
+        <label>ACCOUNT NO.</label>
+        <input type="text" class="form-control" id="acctno6" />
+    </div>
+    <button id="btnGetPayments" class="btn btn-success">View Payments</button>
+    <hr />Result
+    <div id="result">
+        <span id="msg6"></span>|
+        <span id="code6"></span>|
+        <span id="data6"></span>
+    </div>
+    <br />
+    <div id="info6" style="display:none">
+        <span style="color:blue">Display Object values</span>
+        <br />
+        <div id="PaymentsHistory" class="form-group">
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script src="~/Scripts/Services.js"></script>
+}

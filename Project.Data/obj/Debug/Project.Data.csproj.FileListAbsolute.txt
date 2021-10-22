@@ -1,0 +1,98 @@
+D:\Irides\Project.Data\bin\Debug\Project.Data.dll.config
+D:\Irides\Project.Data\bin\Debug\Project.Data.dll
+D:\Irides\Project.Data\bin\Debug\Project.Data.pdb
+D:\Irides\Project.Data\bin\Debug\EntityFramework.dll
+D:\Irides\Project.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Irides\Project.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Irides\Project.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Irides\Project.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Irides\Project.Data\bin\Debug\Microsoft.Owin.dll
+D:\Irides\Project.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Irides\Project.Data\bin\Debug\Microsoft.Owin.Security.dll
+D:\Irides\Project.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Irides\Project.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Irides\Project.Data\bin\Debug\Owin.dll
+D:\Irides\Project.Data\bin\Debug\Project.Model.dll
+D:\Irides\Project.Data\bin\Debug\Project.Model.pdb
+D:\Irides\Project.Data\bin\Debug\EntityFramework.xml
+D:\Irides\Project.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Irides\Project.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Irides\Project.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Irides\Project.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Irides\Project.Data\bin\Debug\Microsoft.Owin.xml
+D:\Irides\Project.Data\bin\Debug\Microsoft.Owin.Security.xml
+D:\Irides\Project.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Irides\Project.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Irides\Project.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Irides\Project.Data\obj\Debug\Project.Data.csprojResolveAssemblyReference.cache
+D:\Irides\Project.Data\obj\Debug\Project.Data.sgsg.resources
+D:\Irides\Project.Data\obj\Debug\Project.Data.csproj.GenerateResource.Cache
+D:\Irides\Project.Data\obj\Debug\Project.Data.dll
+D:\Irides\Project.Data\obj\Debug\Project.Data.pdb
+D:\Irides - Copy\Project.Data\bin\Debug\Project.Data.dll.config
+D:\Irides - Copy\Project.Data\bin\Debug\Project.Data.dll
+D:\Irides - Copy\Project.Data\bin\Debug\Project.Data.pdb
+D:\Irides - Copy\Project.Data\bin\Debug\EntityFramework.dll
+D:\Irides - Copy\Project.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.Owin.dll
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.Owin.Security.dll
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Irides - Copy\Project.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Irides - Copy\Project.Data\bin\Debug\Owin.dll
+D:\Irides - Copy\Project.Data\bin\Debug\Project.Model.dll
+D:\Irides - Copy\Project.Data\bin\Debug\Project.Model.pdb
+D:\Irides - Copy\Project.Data\bin\Debug\EntityFramework.xml
+D:\Irides - Copy\Project.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.Owin.xml
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.Owin.Security.xml
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Irides - Copy\Project.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Irides - Copy\Project.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Irides - Copy\Project.Data\obj\Debug\Project.Data.sgsg.resources
+D:\Irides - Copy\Project.Data\obj\Debug\Project.Data.csproj.GenerateResource.Cache
+D:\Irides - Copy\Project.Data\obj\Debug\Project.Data.dll
+D:\Irides - Copy\Project.Data\obj\Debug\Project.Data.pdb
+D:\Irides - Copy\Project.Data\bin\Debug\Project.Model.dll.config
+D:\Irides - Copy\Project.Data\obj\Debug\Project.Data.csprojAssemblyReference.cache
+D:\Irides - Copy\Project.Data\obj\Debug\Project.Data.csproj.CopyComplete
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Project.Data.dll.config
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Project.Data.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Project.Data.pdb
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\EntityFramework.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.Owin.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Owin.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Project.Model.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Project.Model.pdb
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Project.Model.dll.config
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\EntityFramework.xml
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.Owin.xml
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\obj\Debug\Project.Data.csproj.AssemblyReference.cache
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\obj\Debug\Project.Data.sgsg.resources
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\obj\Debug\Project.Data.csproj.GenerateResource.cache
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\obj\Debug\Project.Data.csproj.CoreCompileInputs.cache
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\obj\Debug\Project.Data.csproj.CopyComplete
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\obj\Debug\Project.Data.dll
+C:\Users\nymha\Desktop\WebApiArchitechture\Project.Data\obj\Debug\Project.Data.pdb
